@@ -1,0 +1,15 @@
+#!/bin/bash 
+
+#author
+
+#date
+
+# description:training git repository for system maintenance
+
+lscpu
+
+pwd
+
+lsblk
+
+mkdir project
